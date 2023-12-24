@@ -1,0 +1,5 @@
+miniAvatar:none;
+怪异的嘴巴:…你的声音，很像我的孩子。 -fontSize=large;
+怪异的嘴巴:我好久没没有…… -fontSize=large;
+怪异的嘴巴:和TA这样讲过话。 -fontSize=large;
+choose:【你听错了。】:P.txt|【我不是你的孩子。】:P.txt|【因为你从来没有听TA讲过话。】:P.txt;

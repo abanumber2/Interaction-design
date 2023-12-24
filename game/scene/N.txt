@@ -1,0 +1,14 @@
+changeBg:dream.jpg;
+miniAvatar:小亮.png;
+你:那是什么？ -fontSize=large;
+playEffect:something_call_to_you.mp3 -volume=80;
+你:谁......？ -fontSize=large;
+你:是一种耳语。 -fontSize=large;
+miniAvatar:none;
+changeBg:mom.jpg;
+怪异的嘴巴:对不起…… -fontSize=large;
+miniAvatar:小亮.png;
+你:什么。|好像是从我面前……不，我身后传来的。 -fontSize=large;
+miniAvatar:none;
+怪异的嘴巴:对不起……如果我发出太多噪声，请告诉我，好吗？|我不想打扰你。 -fontSize=large;
+choose:当然。:O.txt|闭嘴，你已经吵到我了。:O.txt|没有，你没有打扰我。:O.txt;

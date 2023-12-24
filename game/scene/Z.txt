@@ -1,0 +1,10 @@
+changeBg:roomate2.jpg;
+miniAvatar:小亮.png;
+你:… -fontSize=large;
+miniAvatar:none;
+舍友:嗯，就是这样。 -fontSize=large;
+miniAvatar:小亮.png;
+你:什么？ -fontSize=large;
+miniAvatar:none;
+舍友:该上课了。|你没事儿吧，你看起来有点不舒服。 -fontSize=large;
+choose:你刚刚有听到什么声音吗？我…我刚刚。:1.txt|只是太困了。:1.txt|没什么。:1.txt|谢谢你。:1.txt;

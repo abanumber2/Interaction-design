@@ -1,0 +1,5 @@
+舍友（！！！）:小明........... -fontSize=large;
+舍友（！！！）:小明！！ -fontSize=large;
+舍友（！！！）:小明！！！ -fontSize=large;
+舍友（！！！）:小明！！！！！ -fontSize=large;
+choose:不要回应TA:Y.txt|不要回应TA:Y.txt|回应TA:Z.txt|不要回应TA:Y.txt|不要回应TA:Y.txt;

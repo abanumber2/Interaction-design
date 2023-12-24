@@ -1,0 +1,6 @@
+Game_name:谁杀死了小明;
+Game_key:d056d7ca4efb7c8;
+Title_img:标题.png;
+Title_bgm:结局一.mp3;
+Textbox_theme:standard;
+Game_Logo:标题.png;

@@ -1,0 +1,3 @@
+playEffect:燃烧4秒.MP3 -volume=70;
+changeBg:不撕毁.png;
+changeScene:卧室2.txt

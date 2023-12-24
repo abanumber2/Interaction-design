@@ -1,0 +1,18 @@
+bgm:none;
+bgm:hi.mp3;
+changeBg:;
+古怪的声音:TA不见了…… -fontSize=large;
+诡异的声音:TA在哪？ -fontSize=large;
+古怪的声音:TA……死了。 -fontSize=large;
+诡异的声音:TA在哪？！ -fontSize=large;
+古怪的声音:TA死了，死了…… -fontSize=large;
+intro:死了死了死了死了死了死了死|了死了死了死了死了死了死了|死了死了死了死了死了死了死|了死了||死了！！！ -fontSize=large -backgroundColor=rgba(0, 0, 0, 1) -fontColor=rgba(217, 9, 9, 1) -animation=pixelateEffect -delayTime=1500;
+你:（谁死了？） -fontSize=large;
+你:（我死了？） -fontSize=large;
+你:（不，是TA死了。） -fontSize=large;
+你:（TA……是谁？） -fontSize=large;
+你:（我是谁？） -fontSize=large;
+: -fontSize=large;
+changeBg:谁杀了我.png;
+changeBg:谁杀了他.png;
+callScene:卧室1.txt

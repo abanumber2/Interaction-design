@@ -1,0 +1,18 @@
+playEffect:none;
+舍友（？？？）:你能过得好吗？ -fontSize=large;
+miniAvatar:小亮.png;
+你:这不是我的日常。也不是我的偏好。 -fontSize=large;
+你:它更多的，是我的一种…… -fontSize=large;
+你:手段。 -fontSize=large;
+miniAvatar:none;
+舍友（？？？）:手段？|你是说学校？ -fontSize=large;
+舍友（？？？）:出乎意料的答案？至少可以说。 -fontSize=large;
+舍友（？？？）:作为一种选择，它可能会对你造成精神伤害。 -fontSize=large;
+舍友（？？？）:如果你这样做是为了逃避什么，那么…… -fontSize=large;
+miniAvatar:小亮.png;
+你:你是什么意思？  -fontSize=large;
+miniAvatar:none;
+舍友（？？？）:大多人不会只是为了逃避的原因放弃喜欢的东西。 -fontSize=large;
+舍友（？？？）:它会为你带来压抑的氛围，就算不是你…讨厌的东西。 -fontSize=large;
+舍友（？？？）:你怎么处理这件……情绪呢？ -fontSize=large;
+choose:从来没有人问过我这个。:F.txt;

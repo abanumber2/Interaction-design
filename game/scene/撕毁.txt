@@ -1,0 +1,8 @@
+playEffect:拾起纸张.wav;
+你:虽然不是很相信，但是先照办再说…… -fontSize=large;
+playEffect:撕纸.MP3 -volume=100;
+playEffect:燃烧4秒.MP3 -volume=70 -id=1;
+changeBg:撕毁.png;
+:剩下的碎屑燃烧起来。 -fontSize=large;
+playEffect: -volume=70 -id=1;
+changeScene:卧室2.txt

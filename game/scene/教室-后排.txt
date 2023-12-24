@@ -1,0 +1,14 @@
+changeBg:教室2.png -next;
+:你走到叫你的“人”身边。 -fontSize=large;
+miniAvatar:小明.png;
+你:你叫我？你是？ -fontSize=large -left;
+miniAvatar:none;
+changeFigure:小B.png -right -next;
+？？？:别闹了，你今天怎么了。我小B啊。 -fontSize=large -right;
+changeFigure: -right;
+miniAvatar:小明.png;
+你:（小B，跟小明什么关系呢……） -fontSize=large;
+choose:继续询问:教室-不该问.txt|默默坐下:;
+miniAvatar:none;
+:你心中虽有疑问，但还是没有多问，默默坐下了。 -fontSize=large;
+changeScene:教室-上课.txt

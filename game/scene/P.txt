@@ -1,0 +1,5 @@
+怪异的嘴巴:哦。 -fontSize=large;
+怪异的嘴巴:…… -fontSize=large;
+怪异的嘴巴:让我的声音传到你的耳朵里已经够难了。 -fontSize=large;
+怪异的嘴巴:现在更难了。 -fontSize=large;
+choose:我很抱歉。:Q.txt|你不是我妈妈。:Q.txt|住口。:Q.txt;

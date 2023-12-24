@@ -1,0 +1,17 @@
+:...................... -fontSize=large;
+:........................ -fontSize=large;
+:................ -fontSize=large;
+miniAvatar:小亮.png;
+你:去哪儿？ -fontSize=large;
+你:我应该去哪？ -fontSize=large;
+miniAvatar:none;
+changeBg:whoishe.jpg;
+miniAvatar:小亮.png;
+你:看看这张脸。 -fontSize=large;
+你:它以前是什么样子的？ -fontSize=large;
+你:我不应该在这里。|我不应该看到这些。| -fontSize=large;
+你:我只想好好学习，不考虑这些。 -fontSize=large;
+miniAvatar:none;
+changeBg:dreamfloor.jpg;
+舍友（？？？）:小明.......|小明............. -fontSize=large;
+choose:不要回应TA:X.txt|回应TA:X.txt|不要回应TA:X.txt;

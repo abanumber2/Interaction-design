@@ -1,0 +1,15 @@
+miniAvatar:none;
+changeBg:父亲出场.png -next;
+playEffect:敲桌子­.MP3;
+:一个酒瓶出现在你的视野里，咳了几声，开始发表他的见解。 -fontSize=large;
+爸爸:读书都是为了你自己好，你要清楚这一点。 -fontSize=large;
+你以后进入社会就知道我们的良苦用心了。想当年，要是我…… -fontSize=large;
+:他开始回忆自己的过去，头上的酒瓶沸腾出酒液，沿着他绿色的面庞留下。 -fontSize=large;
+playEffect:争吵.MP3 -volume=80;
+:你有点听不清他讲的话，但是你知道母亲和他争吵起来。 -fontSize=large;
+playEffect:none;
+changeBg:液体飞溅.png;
+:餐桌上流淌着酒液与姜汁，滴到了你的衣服上。 -fontSize=large;
+setTextbox:hide;
+bgm:none;
+choose:回到自己的房间，关紧房门。:回房间.txt|绕过他们进入厕所。:厕所.txt|试图劝架，让双方冷静下来。:结局二（餐厅死亡）.txt;

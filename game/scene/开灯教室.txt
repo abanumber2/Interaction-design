@@ -1,0 +1,8 @@
+playEffect:开关灯.wav -volume=100;
+changeBg:教室2.png -next;
+:教室的座位上突然几乎坐满了“人”，只剩前排和后排各空着一个座位。 -fontSize=large;
+changeBg:教室2.png;
+changeFigure:小B.png -right;
+？？？:你来了啊。快来，跟我坐一起！ -fontSize=large -right;
+changeFigure: -right;
+choose:不理睬，在前排坐下:教室-前排.txt|去后排跟ta坐在一起:教室-后排.txt;

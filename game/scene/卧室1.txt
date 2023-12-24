@@ -1,0 +1,15 @@
+bgm:;
+bgm:结局一.mp3 -volume=100;
+changeBg:天花板.png -next;
+你:！！！ -fontSize=large;
+你:这是哪里？ -fontSize=large;
+changeBg:卧室.png -next;
+:身旁的床头柜有一张醒目的红色纸条。 -fontSize=large;
+choose:查看:选择场景文件;
+playEffect:拾起纸张.wav;
+setTextbox:hide;
+intro:1.谨记这个世界很正常，没有运转错误，请不要过度质疑|世界的真实性|2.如果您看见类似的纸条，请严格遵守上面的规则，否则|后果自负|3.这个房间原来的主人不知道去哪了，请你先替代他行动并|找到他的去向|4.请阅读完后立刻撕毁我 -fontSize=small -backgroundColor=rgba(56, 0, 0, 1) -fontColor=rgba(255, 255, 255, 1) -animation=slideIn -delayTime=2000;
+changeBg:红纸条.jpg;
+你:……感觉像整蛊节目，演的吧…… -fontSize=large;
+setTextbox:on;
+choose:撕毁:撕毁.txt|不撕毁:不撕毁.txt;

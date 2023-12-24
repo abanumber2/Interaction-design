@@ -1,0 +1,8 @@
+miniAvatar:小亮.png;
+你:不，我有自己的事情要做。 -fontSize=large;
+你:它需要很长时间。 -fontSize=large;
+你:我要立刻着手去做。|以免做不完。 -fontSize=large;
+miniAvatar:none;
+舍友（？？？）:当然。你去做吧。 -fontSize=large;
+舍友（？？？）:再一次，谢谢你。|我是说，这次对话。 -fontSize=large;
+choose:............:I.txt;

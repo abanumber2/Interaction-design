@@ -1,0 +1,7 @@
+changeBg:desk3.jpg;
+miniAvatar:小亮.png;
+你:时间已经快到了……… -fontSize=large;
+你:漫长的煎熬。|长到足以让我不去想别的事情。 -fontSize=large;
+你:为什么会有这么多问题。|TA的问题让人头痛。 -fontSize=large;
+你:…… -fontSize=large;
+choose:不要再去想它:J.txt|不要再去想它:J.txt|不要再去想它:J.txt;

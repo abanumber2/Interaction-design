@@ -1,0 +1,11 @@
+changeBg:教室2.png -next;
+:你趴在桌子上，不再头疼了。 -fontSize=large;
+:但身上的粘腻感更加明显了，你几乎感觉到有粘液附着在皮肤表面，从后背向上蔓延，到胸口，到颈部……你用手触摸，却什么也没碰到。 -fontSize=large;
+:终于，“粘液”蔓延到了口鼻。 -fontSize=large;
+你:（我知道了，这种触感……） -fontSize=large;
+你:（原来……是蜗牛啊。） -fontSize=large;
+: -fontSize=default;
+bgm:失败.mp3;
+intro:你被无法触摸的粘液淹没，窒息了。 -fontSize=medium -backgroundColor=rgba(0, 0, 0, 1) -fontColor=rgba(255, 255, 255, 1) -animation=fadeIn -delayTime=1500;
+changeBg:none;
+end;

@@ -1,0 +1,11 @@
+bgm:结局一.mp3 -volume=90 -enter=0;
+你:不用了，我暂时不是很饿…… -fontSize=large;
+miniAvatar:none;
+changeBg:妈妈流泪.png -next;
+妈妈:……为什么总是不听话？你怎么不理解妈妈的苦心呢！！！ -fontSize=large;
+changeBg:死亡1.png -next;
+changeBg:死亡2.png -next;
+:她的脸上流出红色的姜液，辛辣呛鼻，把你淹没了。 -fontSize=large;
+intro:这是爱。 -fontSize=large -backgroundColor=rgba(66, 0, 0, 1) -fontColor=rgba(255, 255, 255, 1) -animation=revealAnimation -delayTime=4000;
+bgm:none;
+end;

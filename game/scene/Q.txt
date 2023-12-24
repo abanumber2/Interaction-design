@@ -1,0 +1,4 @@
+怪异的嘴巴:你需要大声一点...... -fontSize=large;
+怪异的嘴巴:我听不到....... -fontSize=large;
+怪异的嘴巴:我的......孩子......... -fontSize=large;
+choose:我很抱歉。:R.txt|你不是我妈妈。:R.txt|住口。:R.txt;

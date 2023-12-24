@@ -1,0 +1,9 @@
+miniAvatar:小亮.png;
+你:抱歉。 -fontSize=large;
+你:我只是。 -fontSize=large;
+你:……|我有点累，我上午回了一次家。 -fontSize=large;
+miniAvatar:none;
+舍友（？？？）:………… -fontSize=large;
+舍友（？？？）:先休息一下吧。 -fontSize=large;
+舍友（？？？）:无论如何，周末我会一直在这里，有什么事情可以随时来找我。 -fontSize=large;
+choose:……你好像想要说点什么。:A.txt;

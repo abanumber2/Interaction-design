@@ -1,0 +1,23 @@
+bgm:餐厅.MP3;
+changeBg:父亲出场.png -next;
+妈妈:赶紧来吃饭，不说糟心的事了。 -fontSize=large;
+setTextbox:on;
+爸爸:是啊，饭桌上家庭要和睦。 -fontSize=large;
+changeBg:液体飞溅.png -next;
+:他们牵着你走到餐桌旁，但是桌上的食物已经被液体浸泡得变色了。 -fontSize=large;
+choose:用餐:选择场景文件|用餐:选择场景文件|用餐:选择场景文件;
+setTextbox:hide;
+playEffect:钟表声.mp3 -id=1;
+changeBg:母亲出场.png -next;
+妈妈:亲爱的，是时候去上课了，在学校要好好学习哦。但是也要经常回家，学校就在附近，不要让爸爸妈妈担心。 -fontSize=large;
+setTextbox:on;
+miniAvatar:小明.png;
+playEffect: -id=1;
+你:……好的。 -fontSize=large;
+miniAvatar:none;
+playEffect:开门.MP3 -volume=80;
+changeBg:none;
+:你推开家门，去往学校。 -fontSize=large;
+playEffect:;
+bgm: -enter=0;
+changeScene:Part1 End.txt

@@ -1,0 +1,21 @@
+playEffect:开门.MP3 -volume=80;
+bgm:卫生间.wav -volume=80;
+changeBg:卫生间.png;
+changeBg:卫生间2.png;
+miniAvatar:小明.png;
+你:终于安静下来了…… -fontSize=large;
+setTextbox:on;
+changeBg:洗漱台1.png;
+choose:打开水龙头:选择场景文件;
+playEffect:水滴.mp3 -id=1;
+miniAvatar:none;
+:水滴声使得你平静下来，周围开始褪色。 -fontSize=large;
+changeBg:洗漱台2.png;
+miniAvatar:小明.png;
+playEffect:none -id=1;
+你:（外面好像没有声音了，出去看看吧。） -fontSize=large;
+playEffect:开门.MP3 -volume=80;
+setTextbox:hide;
+bgm:none -enter=0;
+miniAvatar:none;
+changeScene:和谐用餐.txt

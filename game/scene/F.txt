@@ -1,0 +1,7 @@
+miniAvatar:小亮.png;
+你:这些问题帮助我不去想别的事情。 -fontSize=large;
+miniAvatar:none;
+舍友（？？？）:……有道理。|所以…？ -fontSize=large;
+miniAvatar:小亮.png;
+你:啊…对的，这些问题。 -fontSize=large;
+choose:我在学校什么都不会想:G.txt|我在学校保持和家庭的距离。:G.txt;

@@ -1,0 +1,18 @@
+changeBg:教学楼.webp;
+:你出了宿舍的门，就看到一栋教学楼。 -fontSize=large;
+;场景：教室
+bgm:bgm.mp3 -volume=100;
+changeBg:黑教室.png;
+playEffect:开关门.mp3;
+:你随意推开了一扇门，走进一间空教室。 -fontSize=large;
+:教室的灯关着。 -fontSize=large;
+choose:开灯:开灯教室.txt|不开灯:;
+:你走进教室，教室里空无一人，只有两个座位上有东西。 -fontSize=large;
+changeBg:黑教室+书.png -next;
+:你走到前排的座位，桌上有一本书。 -fontSize=large;
+:书的边角上写着“小A”，是这本书主人的名字。 -fontSize=large;
+changeBg:黑教室.png -next;
+:你走到后排的座位，发现了一张纸。 -fontSize=large;
+intro:课堂守则|1. 每个人都有自己的位置，不要坐错。（但如果坐错了，也不必慌张）（被划掉）。|2. 任课老师并不危险，教室内是安全的。|3.未临近考试，教室外也是安全的。|4.请牢记，考试时间为11月12日。|5. 学生必须通过考试。|6. （不）（被划掉）要一直听从同学的话。 -fontSize=medium -backgroundColor=rgba(0, 0, 0, 1) -fontColor=rgba(255, 255, 255, 1) -animation=fadeIn -delayTime=1500;
+:你仔细阅读了守则。然后抬头，看到黑板上写着“9.11”。 -fontSize=large;
+choose:开灯:开灯教室.txt;

@@ -1,0 +1,17 @@
+miniAvatar:none;
+舍友（？？？）:即使家庭距离你如此之近？ -fontSize=large;
+miniAvatar:小亮.png;
+你:……我相信我们的躯壳是自由的。 -fontSize=large;
+playEffect:none -id=1;
+:（手机嗡嗡的震动声） -fontSize=large;
+miniAvatar:none;
+playEffect:phone_vibration2.mp3;
+舍友（？？？）:……呃，对不起。你的手机似乎响了。 -fontSize=large;
+miniAvatar:小亮.png;
+你:（是的。） -fontSize=large;
+你:（这次我差点忽略了它。） -fontSize=large;
+你:（不需要看我就知道谁在打电话。） -fontSize=large;
+你:（至少打断了这场……审讯。） -fontSize=large;
+miniAvatar:none;
+舍友（？？？）:你不明白吗？ -fontSize=large;
+choose:不要接电话:H.txt|不要接电话:H.txt|不要接电话:H.txt;

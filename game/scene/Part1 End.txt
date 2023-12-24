@@ -1,0 +1,2 @@
+choose:进入宿舍场景:选择场景文件;
+changeScene:宿舍start.txt

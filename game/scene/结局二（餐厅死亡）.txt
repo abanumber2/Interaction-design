@@ -1,0 +1,4 @@
+setTextbox:on;
+:他们的话语变成绳子缠绕着你，你窒息而死。 -fontSize=large;
+intro:已经提醒过你遵守用餐须知了，不要插手他们的争吵。 -fontSize=large -backgroundColor=rgba(0, 0, 0, 1) -fontColor=rgba(130, 3, 3, 1) -animation=pixelateEffect -delayTime=3500;
+end;

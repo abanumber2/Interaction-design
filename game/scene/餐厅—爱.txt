@@ -1,0 +1,18 @@
+miniAvatar:小明（亮部）.png;
+你:妈妈，我感觉一切顺利。 -fontSize=large;
+miniAvatar:none;
+:妈妈好像很开心，虽然你没从她充满沟壑和泥土的脸上看出什么变化。 -fontSize=large;
+changeBg:榨汁中­1.png -next;
+:她切下自己的手指，扔进了榨汁机。 -fontSize=large;
+playEffect:蒸汽声.MP3 -volume=80;
+changeBg:榨汁中2.png;
+playEffect:玻璃杯.MP3;
+changeBg:榨汁3.png;
+妈妈:宝贝，这是给你的奖励，快喝吧！ -fontSize=large;
+choose:喝下:选择场景文件|喝下:选择场景文件;
+playEffect:吞咽.wav;
+changeBg:母亲出场.png;
+:你感觉辛辣的味道充斥着你的鼻腔和口腔，腥膻从你的胸腔蔓延开，但是你的身体温暖起来了。 -fontSize=large;
+miniAvatar:小明.png;
+你:谢谢妈妈…… -fontSize=large;
+changeScene:餐厅2.txt

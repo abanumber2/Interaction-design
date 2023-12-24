@@ -1,0 +1,6 @@
+舍友（？？？）:这是一种不回答的方式。 -fontSize=large;
+舍友（？？？）:你甚至不知道你每天在做什么，不是吗？ -fontSize=large;
+舍友（？？？）:我自己…………我自己想做艺术家。 -fontSize=large;
+舍友（？？？）:但我在这里学不感兴趣的东西。 -fontSize=large;
+舍友（？？？）:并且用这些内容来填充每天的日常。 -fontSize=large;
+choose:这就是全部？:D.txt;

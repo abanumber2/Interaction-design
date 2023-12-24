@@ -1,0 +1,2 @@
+changeBg: -next;
+choose:进入宿舍场景:宿舍1.txt;

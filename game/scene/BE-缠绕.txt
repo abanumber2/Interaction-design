@@ -1,0 +1,16 @@
+changeBg:;
+:你离开教室，发现走廊变得看不见尽头。 -fontSize=large;
+changeBg:教室2.png;
+:你只好随便打开一扇门，又进入一间教室。黑板上写着11.12。 -fontSize=large;
+:座位上几乎已经坐满了人，你也坐了下来。 -fontSize=large;
+playEffect:考试铃.mp3;
+:铃声响了，考试开始了。 -fontSize=large;
+playEffect:none;
+changeBg:教室+试卷.png;
+:试卷上的字你一个都看不懂。 -fontSize=large;
+: -fontSize=default;
+changeBg:教室+扭曲试卷.png;
+bgm:失败.mp3;
+intro:文字变大缠绕，包裹着你，将你淹没了…… -fontSize=medium -backgroundColor=rgba(0, 0, 0, 1) -fontColor=rgba(255, 255, 255, 1) -animation=fadeIn -delayTime=1500;
+changeBg:none;
+end;

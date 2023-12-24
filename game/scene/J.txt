@@ -1,0 +1,6 @@
+changeBg:none;
+你:见鬼。 -fontSize=large;
+changeBg:computer2.png;
+你:我……我得准备考试。 -fontSize=large;
+你:我感觉没法静下来。 -fontSize=large;
+choose:【复习】:K.txt;

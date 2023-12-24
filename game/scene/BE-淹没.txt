@@ -1,0 +1,12 @@
+changeBg:教室2.png;
+changeBg:教室+打开的书.png;
+:你尝试继续学习。开始翻看桌上的书。 -fontSize=large;
+miniAvatar:小明.png;
+你:（头好痛，好晕……） -fontSize=large;
+miniAvatar:none;
+changeBg:教室+打开的书扭曲.png;
+: -fontSize=large;
+bgm:失败.mp3;
+changeBg:none;
+intro:你的头痛到无法忍受。你看到书上的字变大缠绕，包裹着你，将你淹没了…… -fontSize=medium -backgroundColor=rgba(0, 0, 0, 1) -fontColor=rgba(255, 255, 255, 1) -animation=fadeIn -delayTime=1500;
+end;

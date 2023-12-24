@@ -1,0 +1,13 @@
+changeBg:教室2.png -next;
+miniAvatar:小明.png;
+你:小B？你认识我？ -fontSize=large -left;
+miniAvatar:none;
+changeFigure:小B.png -right -next;
+小B:当然…… -fontSize=large -right;
+playEffect:转场-上升紧张骤停_爱给网_aigei_com.mp3;
+changeBg:教室+npc.png;
+:教室里的“人”都突然都紧盯着你！ -fontSize=large;
+changeFigure: -right;
+choose:逃出教室:BE-压迫.txt|默默坐下:;
+:你强作镇定，忍受着ta们的目光。直到又有“人”走进教室，ta们才转移视线。 -fontSize=large;
+changeScene:教室-上课.txt

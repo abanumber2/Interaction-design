@@ -1,0 +1,5 @@
+怪异的嘴巴:什么？我听不到？！！！！ -fontSize=large;
+怪异的嘴巴:你明白吗？让我的声音传到你那里已经够难的。 -fontSize=large;
+怪异的嘴巴:一直都是。|一直都是。 -fontSize=large;
+怪异的嘴巴:一直都是这样！！！ -fontSize=large;
+choose:我很抱歉。:S.txt|你不是我妈妈。:S.txt|住口。:S.txt;

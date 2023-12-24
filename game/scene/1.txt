@@ -1,0 +1,4 @@
+舍友:？ -fontSize=large;
+舍友:啊…好吧。 -fontSize=large;
+舍友:离开这里吧。 -fontSize=large;
+choose:离开:教室start.txt;

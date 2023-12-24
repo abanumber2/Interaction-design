@@ -1,0 +1,12 @@
+miniAvatar:小明.png;
+你:妈妈，我感觉痛苦。 -fontSize=large -id -figureId=小明;
+miniAvatar:none;
+:她的脸上淌下了红色的汁液，你知道这是生姜的眼泪。 -fontSize=large -right;
+妈妈:为什么？ -fontSize=large;
+是只有你一个人这么痛苦，还是其他人也痛苦？ -fontSize=large;
+你要学会忍受痛苦，大家都是这么过来的。 -fontSize=large;
+痛苦是人生的内核。 -fontSize=large;
+:你感觉周围的空气被她的话吸收，变得稀薄，让你感到沉重，你几乎无法张口说话。 -fontSize=large;
+miniAvatar:小明.png;
+你:好的，妈妈。 -fontSize=large;
+changeScene:餐厅2.txt

@@ -1,0 +1,4 @@
+changeBg:none;
+你:已经…… -fontSize=large;
+你:眼睛睁不开了。 -fontSize=large;
+choose:那是什么？:N.txt;

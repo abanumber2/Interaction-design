@@ -1,0 +1,13 @@
+bgm:none;
+changeBg:dormitory2.jpg;
+:你走进了宿舍。 -fontSize=large -left;
+:你的脸颊僵硬地提起来，你把自己的嘴角向上扬。 -fontSize=large -left;
+:来的好不容易的微笑，明媚的、灿烂的微笑。仿佛你和每一个人都亲密无间。 -fontSize=large;
+:唇角要不过分的弯曲，眼睛要微微眯起来，你知道这样更体现效果。 -fontSize=large;
+:你的情绪，只是为了表演。 -fontSize=large;
+:你完全掌控了自己，一直是这样。 -fontSize=large;
+changeBg:roomate2.jpg;
+舍友（？？？）:嘿，你回来了。 -fontSize=large;
+舍友（？？？）:大家都离开宿舍去图书馆了。 -fontSize=large;
+舍友（？？？）:你上午好像没有来上课，发生什么事情了？ -fontSize=large;
+choose:（沉默）:嗯好吧宿舍.txt|把这件事告诉老师和辅导员。:开玩笑宿舍.txt|把这件事告诉我的父母。:开玩笑宿舍.txt|没什么，只是有点自己的事情需要处理。:嗯好吧宿舍.txt;

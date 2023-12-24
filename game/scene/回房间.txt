@@ -1,0 +1,10 @@
+changeBg:卧室.png;
+miniAvatar:小明.png;
+:你听不见争吵声了。 -fontSize=large;
+setTextbox:on;
+你:这个门竟然能挡住声音…… -fontSize=large;
+你:再次出门看看吧…… -fontSize=large;
+miniAvatar:none;
+playEffect:开门.MP3 -volume=80;
+changeBg:none;
+changeScene:和谐用餐.txt

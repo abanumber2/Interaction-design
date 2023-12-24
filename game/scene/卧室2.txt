@@ -1,0 +1,16 @@
+playEffect:惊讶.MP3 -volume=10;
+你:（！！！） -fontSize=large;
+这是不是什么魔术？！ -fontSize=large;
+:突然，你看见了镜子里的东西。    -fontSize=large;
+changeBg:照镜子.png;
+miniAvatar:小明（亮部）.png;
+你:这是我吗？！ -fontSize=large;
+miniAvatar:none;
+changeBg:妈妈出场.png -next;
+？？？:宝贝，到饭点了，赶紧过来吃饭！ -fontSize=large;
+setTextbox:on;
+changeBg:洞门.jpg -next;
+miniAvatar:小明（亮部）.png;
+你:（这个门上怎么有个洞？！） -fontSize=large;
+（天哪，感觉时刻被监控着……） -fontSize=large;
+choose:感到恐惧，表示拒绝出房间:结局一（卧室死亡）.txt|去外面探索看一下，而且感觉好像最好不要忤逆她:餐厅1.txt;
